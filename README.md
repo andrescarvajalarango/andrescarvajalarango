@@ -168,6 +168,9 @@ current_focus:
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrescarvajalarango&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=6d28d9&text_color=c4b5fd&bg_color=1e1b4b" alt="github stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andrescarvajalarango&hide_border=true&background=1e1b4b&stroke=6d28d9&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+<!-- MIRROR ALTERNATIVO (si el de Heroku sigue caído/dormido, comenta la línea de arriba y descomenta esta):
+<img height="165" src="https://streak-stats.demolab.com/?user=andrescarvajalarango&hide_border=true&background=1e1b4b&stroke=6d28d9&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+-->
 
 <br/>
 
@@ -215,7 +218,7 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:[TU_CORREO]">
+<a href="mailto:carvacerberus@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 <a href="https://www.linkedin.com/in/andr%C3%A9s-carvajal-arango-b533a017a/">
