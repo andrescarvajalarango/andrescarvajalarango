@@ -1,39 +1,40 @@
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
-<h1 align="center">Andrés Carvajal Arango</h1>
+<div align="center">
 
-<p align="center">Full Stack Developer &amp; Tech Lead</p>
+<img src="assets/header.svg" width="100%" alt="Andrés Carvajal Arango — Full Stack Developer & Tech Lead" />
 
-<p align="center">
-  <a href="https://mejor-dicho.com">
-    <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-carvajal-arango-b533a017a/">
-    <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:carvacerberus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6d28d9?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://github.com/andrescarvajalarango">
-    <img src="https://img.shields.io/badge/GitHub-6d28d9?style=flat-square&logo=github&logoColor=white" alt="github" />
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Manizales,_Colombia-1e1b4b?style=flat-square&logo=googlemaps&logoColor=c4b5fd" alt="location" />
-  <img src="https://img.shields.io/badge/Corporaci%C3%B3n_Unificada_Nacional_CUN-1e1b4b?style=flat-square&logo=googlescholar&logoColor=c4b5fd" alt="education" />
-</p>
+<a href="https://mejor-dicho.com">
+  <img src="https://img.shields.io/badge/Portfolio-4c1d95?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-carvajal-arango-b533a017a/">
+  <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:carvacerberus@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4c1d95?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://github.com/andrescarvajalarango">
+  <img src="https://img.shields.io/badge/GitHub-4c1d95?style=flat-square&logo=github&logoColor=white" alt="github" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Corporaci%C3%B3n_Unificada_Nacional_CUN-1e1b4b?style=flat-square&logo=googlescholar&logoColor=c4b5fd" alt="education" />
+
+</div>
 
 ---
 
 <!-- ══════════════════════════ ABOUT ══════════════════════════ -->
 ## Sobre mí
 
-Desarrollador de software con **más de 9 años** construyendo soluciones empresariales de punta a punta. Lidero un equipo de desarrollo en **BPMco**, combinando el trabajo técnico *hands-on* con la gestión de personas y proyectos.
+Desarrollador full stack con **más de 9 años** construyendo software empresarial. Actualmente lidero un equipo en **BPMco**, donde trabajamos en **sistemas BPM** (automatización de procesos, formularios y flujos de negocio) sobre ASP.NET, SQL Server y Vue. En paralelo desarrollo proyectos propios como **MejorDicho!**, explorando Next.js, FastAPI e integración de IA.
 
-- **Ingeniería full stack** — desde el modelado de datos hasta la experiencia final del usuario.
-- **Productos impulsados por IA** — integro modelos como Claude para funcionalidades como búsqueda semántica.
-- **Mentalidad de product engineering** — construyo cosas que la gente realmente usa.
-- **Modernización de flujos** — lideré la migración del equipo de SVN a GitHub.
+- Trabajo end-to-end: desde el modelado de datos hasta la experiencia final del usuario.
+- Me gusta integrar IA en producto de forma útil (p. ej. búsqueda semántica con Claude).
+- Combino la parte técnica *hands-on* con la gestión de equipo, clientes y proyectos.
+- Impulsé la migración del control de versiones del equipo de SVN a GitHub.
 
 **Open to:** roles de Software Engineer / Senior Software Engineer, liderazgo técnico y colaboración en producto.
 
@@ -44,36 +45,34 @@ Desarrollador de software con **más de 9 años** construyendo soluciones empres
 
 **Lenguajes**
 
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![C#](https://skillicons.dev/icons?i=cs)
-![Java](https://skillicons.dev/icons?i=java)
+![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4c1d95?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4c1d95?style=flat-square&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4c1d95?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4c1d95?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+![Next.js](https://img.shields.io/badge/Next.js-4c1d95?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-4c1d95?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4c1d95?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4c1d95?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend y bases de datos**
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![SQL Server](https://img.shields.io/badge/SQL_Server-4c1d95?style=flat&logo=microsoftsqlserver&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-4c1d95?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-4c1d95?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4c1d95?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4c1d95?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-4c1d95?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Cloud, DevOps y tooling**
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://img.shields.io/badge/Docker-4c1d95?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-4c1d95?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4c1d95?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4c1d95?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
@@ -83,14 +82,14 @@ Desarrollador de software con **más de 9 años** construyendo soluciones empres
 ### Full Stack Developer &amp; Tech Lead — BPMco
 *Manizales, Colombia*
 
-Lidero un equipo de desarrollo combinando ejecución técnica con gestión de personas y proyectos, construyendo soluciones empresariales de software.
+Lidero un equipo de desarrollo combinando ejecución técnica con gestión de personas y proyectos. Construimos **sistemas BPM** (Business Process Management) para clientes: automatización de procesos, formularios dinámicos y flujos de negocio.
 
 - Desarrollo full stack sobre ASP.NET (Web Forms), SQL Server, Vue.js y JavaScript.
 - Experiencia adicional en desarrollo móvil (Java, Objective-C).
-- Lideré la migración del control de versiones del equipo de SVN a GitHub, modernizando el flujo de desarrollo.
+- Lideré la migración del control de versiones del equipo de SVN a GitHub.
 - Gestión de proyectos, comunicación con clientes y liderazgo de equipo.
 
-`ASP.NET` · `SQL Server` · `Vue.js` · `JavaScript` · `Team Leadership` · `Project Management`
+`ASP.NET` · `SQL Server` · `Vue.js` · `JavaScript` · `BPM` · `Team Leadership`
 
 ---
 
@@ -99,7 +98,7 @@ Lidero un equipo de desarrollo combinando ejecución técnica con gestión de pe
 
 ### MejorDicho! — Plataforma de cultura popular colombiana
 
-Plataforma para **preservar y compartir la cultura popular colombiana** (dichos, refranes y piropos), organizada por los 33 departamentos del país. Diseñada, desarrollada y desplegada de forma individual, de punta a punta.
+Plataforma para **preservar y compartir la cultura popular colombiana** (dichos, refranes y piropos), organizada por los 33 departamentos del país. La diseñé, desarrollé y desplegué de punta a punta.
 
 | Aspecto | Detalle |
 |---|---|
@@ -109,7 +108,7 @@ Plataforma para **preservar y compartir la cultura popular colombiana** (dichos,
 | **IA** | Búsqueda semántica sobre contenido en PostgreSQL (Claude) |
 | **Enlace** | [mejor-dicho.com](https://mejor-dicho.com) |
 
-Incluye un mapa interactivo de Colombia para explorar por región, búsqueda semántica con IA y un sistema social de reacciones, comentarios y ranking. Un proyecto end-to-end que abarca desde el diseño de la base de datos hasta el despliegue en producción.
+Incluye un mapa interactivo de Colombia para explorar por región, búsqueda semántica con IA y un sistema social de reacciones, comentarios y ranking. Un proyecto end-to-end, desde el diseño de la base de datos hasta el despliegue en producción.
 
 ---
 
@@ -121,15 +120,3 @@ Incluye un mapa interactivo de Colombia para explorar por región, búsqueda sem
 | Integración de LLMs | Integración de la Claude API en producto (MejorDicho!). |
 | Búsqueda semántica | Búsqueda impulsada por IA sobre contenido en PostgreSQL. |
 | Producto con IA | Diseño de features de IA con foco en la experiencia de usuario. |
-
----
-
-<!-- ══════════════════════════ GITHUB ANALYTICS ══════════════════════════ -->
-## GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=andrescarvajalarango&show_icons=true&hide_border=true&title_color=6d28d9&icon_color=6d28d9&text_color=c4b5fd&bg_color=1e1b4b" alt="github stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescarvajalarango&layout=compact&hide_border=true&title_color=6d28d9&text_color=c4b5fd&bg_color=1e1b4b&langs_count=8" alt="top languages" />
-
-</div>
