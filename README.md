@@ -36,8 +36,6 @@ Desarrollador full stack con **más de 9 años** construyendo software empresari
 - Combino la parte técnica *hands-on* con la gestión de equipo, clientes y proyectos.
 - Impulsé la migración del control de versiones del equipo de SVN a GitHub.
 
-**Open to:** roles de Software Engineer / Senior Software Engineer, liderazgo técnico y colaboración en producto.
-
 ---
 
 <!-- ══════════════════════════ TECH STACK ══════════════════════════ -->

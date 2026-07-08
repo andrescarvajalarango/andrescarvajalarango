@@ -30,7 +30,7 @@
   <text x="30" y="332" font-family="'JetBrains Mono',Consolas,monospace" font-size="15"><tspan fill="#a78bfa">$</tspan> <tspan fill="#6f6f8f">focus --now</tspan></text>
   <text x="30" y="358" font-family="'JetBrains Mono',Consolas,monospace" font-size="14" fill="#c4b5fd">Productos con IA · Búsqueda semántica · Liderazgo técnico</text>
 
-  <text x="30" y="398" font-family="'JetBrains Mono',Consolas,monospace" font-size="15"><tspan fill="#a78bfa">$</tspan> <tspan fill="#6f6f8f">open-to</tspan></text>
-  <text x="30" y="424" font-family="'JetBrains Mono',Consolas,monospace" font-size="14" fill="#c4b5fd">Software Engineer / Senior SWE · liderazgo técnico</text>
-  <rect x="470" y="412" width="9" height="15" fill="#a78bfa"/>
+  <text x="30" y="398" font-family="'JetBrains Mono',Consolas,monospace" font-size="15"><tspan fill="#a78bfa">$</tspan> <tspan fill="#6f6f8f">projects --featured</tspan></text>
+  <text x="30" y="424" font-family="'JetBrains Mono',Consolas,monospace" font-size="14" fill="#c4b5fd">MejorDicho! · mejor-dicho.com</text>
+  <rect x="285" y="412" width="9" height="15" fill="#a78bfa"/>
 </svg>
