@@ -5,22 +5,12 @@
 
 <br/><br/>
 
-<a href="https://mejor-dicho.com">
-  <img src="https://img.shields.io/badge/Portfolio-4c1d95?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" />
-</a>
 <a href="https://www.linkedin.com/in/andr%C3%A9s-carvajal-arango-b533a017a/">
   <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:carvacerberus@gmail.com">
   <img src="https://img.shields.io/badge/Email-4c1d95?style=flat-square&logo=gmail&logoColor=white" alt="email" />
 </a>
-<a href="https://github.com/andrescarvajalarango">
-  <img src="https://img.shields.io/badge/GitHub-4c1d95?style=flat-square&logo=github&logoColor=white" alt="github" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Corporaci%C3%B3n_Unificada_Nacional_CUN-1e1b4b?style=flat-square&logo=googlescholar&logoColor=c4b5fd" alt="education" />
 
 </div>
 
